@@ -13,8 +13,8 @@ export default function Dao() {
       2,
       "Should we accept Elon Musks $44billion offer for our DAO?",
       <Link href="/proposal" state={"hello"}>
-      <Tag color="red" text="Rejected" />,
-      </Link>,
+      <Tag color="red" text="Rejected" />
+      </Link>
     ],
     [
       3,
@@ -91,6 +91,7 @@ export default function Dao() {
             title="Create a New Proposal"
         />
       </div>
+      <div className="h-10"></div>
     </>
   );
 }

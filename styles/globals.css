@@ -21,7 +21,7 @@ body {
   }
   
   .content{
-    margin-top: -56px;
+    margin-top: -54px;
     display: flex;
     justify-content: center;
   }
@@ -33,6 +33,7 @@ body {
     width:60vw;
     left: 20vw;
     position: absolute;
+    padding: 20px;
   }
 
   .proposal{
